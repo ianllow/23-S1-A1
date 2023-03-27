@@ -7,11 +7,7 @@
 * Game Idea originated from [Chicory: A Colorful Tale](https://chicorygame.com/).
 
 ## Group Members
-
-- Jackson Goerner (jackson.goerner@monash.edu)
-- Saksham Nagpal (saksham.nagpal@monash.edu)
-- Alexey Ignatiev (alexey.ignatiev@monash.edu)
-- Brendon Taylor (brendon.taylor@monash.edu)
+- Ian Low Kay Ven (ilow0007@student.monash.edu)
 
 ## Setup
 

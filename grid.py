@@ -23,7 +23,7 @@ class Grid:
         - x, y: The dimensions of the grid.
 
         Should also intialise the brush size to the DEFAULT provided as a class variable.
-        """
+        """      
         raise NotImplementedError()
 
     def increase_brush_size(self):
